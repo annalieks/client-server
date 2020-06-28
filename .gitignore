@@ -1,0 +1,6 @@
+# IDE folders
+.idea/
+cmake-build-debug/
+
+# File with users data
+data/data.json
